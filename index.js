@@ -1,5 +1,5 @@
 let array = [];
-let nome;
+
 
 var btn1 = document.getElementById('botao1')
 var btn2 = document.getElementById('botao2')
